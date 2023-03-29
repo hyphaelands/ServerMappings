@@ -1,0 +1,36 @@
+{
+    "id": "hyphaelands",
+    "name": "Hyphaelands Network",
+    "description": "Diversión a montones y eventos únicos",
+    "addresses": [
+        "hyphaelands.net"
+    ],
+    "primaryAddress": "hyphaelands.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#4bdafa",
+    "secondaryColor": "#0c738a",
+    "primaryLanguage": "es-ES",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Events"
+    ],
+	"website": "https://hyphaelands.net",
+  "store": "https://hyphaelands.net",
+	"socials": {
+        "twitter": "hyphaelands"
+    }
+}
